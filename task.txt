@@ -1,0 +1,9 @@
+Current Tasks:
+
+Search Page with Filters
+Orders on User Profile Page.
+Email on Order Place (User).
+Email on Order Confirm(Admin).
+Email on Order Despatch(Admin).
+Email on Order Delivered(Admin).
+
