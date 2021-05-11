@@ -229,7 +229,14 @@ a:hover, .header .navbar-default .navbar-nav li a:hover {
     float: left;
 }
 
-
+.menuFooter {
+    width: 100%;
+    float: left;
+    height: auto;
+    padding: 15px 0 15px;
+    border-top: 1px solid #ffffff;
+    color: #fff;
+}
 
 
 

@@ -5,7 +5,7 @@
       <div class="container">
         
         <ul class="topbar-left">
-          <li>The Taste You Will Never Forget...</li>
+          <li>Toll free: 1866 go go ize (46 46 493), 716 236 7894, please feel free to call us at your convenience at any time</li>
         </ul>
         <ul class="topbar-right">
        
@@ -44,7 +44,7 @@ $rows =mysqli_query($con,"SELECT * FROM shop where status='cart' AND actid='$act
 <style type="text/css">
   .cuslogo {
     padding: 10px;
-    margin-top: -50px;
+    margin-top: -30px;
     margin-left: 20%;
 }
   @media (max-width: 768px){
